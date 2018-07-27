@@ -1,11 +1,11 @@
-# Recherche du nombre d'occurence dans un text.
+# Recherche du nombre d'occurence dans un texte.
 
 ## Prerequis
 
 - Node
 - Yarn ou Npm
 
-# Exercices
+# ExerciceU
 
 « On cherche à connaitre le nombre d’occurrence de chaque mots dans un texte (les mots de moins de deux lettres seront ignorés).
 Concevez une petite librairie JS qui répond à ce problème. »
@@ -22,7 +22,7 @@ Il vous suffit d'installer le projet en local et d'executer "npm install puis np
 
 Il suffit par la suite de saisir du texte dans le champs de recherche puis le résultat s'affiche dans la grille en dessous.
 
-Dispo pour quelques questions à soufiane.mouffok@gmail.com
+Dispo pour quelques questions.
 
 ## Amélioration
 
